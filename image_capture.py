@@ -15,6 +15,10 @@ symbol_mapping = {
     'thumbs_up': 'thumbs_up.jpg',
     'peace': 'peace.jpg',
     # Add more symbols and their image names here
+
+    #Add image from kaggle asti hereko letter wala with their jpgs in the same folder
+    # ani press s to capture and terminal ma gara name hala
+    #this step is for data collection
 }
 
 # Specify the desired landmark indices to store for each symbol
