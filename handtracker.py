@@ -49,5 +49,5 @@ cv2.destroyAllWindows()
 
 file=open('data.txt','w')
 for item in hand_data:
-    file.write(item)
+    file.write(str(item)+'\n')
 file.close()
